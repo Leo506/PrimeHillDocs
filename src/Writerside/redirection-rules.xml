@@ -10,4 +10,8 @@
         <description>Created after removal of "About PrimeHill Docs" from PrimeHill Docs</description>
         <accepts>starter-topic.html</accepts>
     </rule>
+    <rule id="5346e4d7">
+        <description>Created after removal of "Сценарии использования" from PrimeHill Docs</description>
+        <accepts>Scenarios.html</accepts>
+    </rule>
 </rules>
