@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="pd"
-                 name="PrimeHill Docs"
+                 name="PrimeHillDocs"
                  start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>
